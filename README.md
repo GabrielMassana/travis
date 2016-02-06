@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/GabrielMassana/travis/master.svg)](https://travis-ci.org/GabrielMassana/travis)
+[![Build Status](https://travis-ci.org/GabrielMassana/travis.svg?branch=master)](https://travis-ci.org/GabrielMassana/travis)
 
 # travis
 
